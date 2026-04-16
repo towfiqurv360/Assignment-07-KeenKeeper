@@ -1,16 +1,40 @@
-# React + Vite
+# 🌿 KeenKeeper - Meaningful Connection Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**KeenKeeper** is a personalized relationship management dashboard designed to help you nurture and maintain the connections that matter most. Built with a sleek dark-themed UI, it ensures you never lose touch with your friends, mentors, or colleagues.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
+[Check out the Live App](live lik)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
 
-## Expanding the ESLint configuration
+- **Personalized Dashboard:** A high-level overview of your connections with real-time stats (Total Friends, Overdue, On-track).
+- **Glassmorphic UI:** Modern dark-mode design with glowing emerald accents for a premium feel.
+- **Relationship Tracking:** Smart status indicators (`Overdue`, `Almost Due`, `On-Track`) based on your last interaction.
+- **Detailed Profiles:** Individual pages for each friend showcasing their bio, tags, and contact goals.
+- **Interactive Stats:** Data visualization using Recharts to monitor your social habits.
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop views.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- **Core:** React.js (Vite)
+- **Styling:** Tailwind CSS & DaisyUI
+- **Icons:** Heroicons & React Icons
+- **Analytics:** Recharts
+- **Routing:** React Router DOM (v6)
+- **State Management:** Local Storage for data persistence
+
+---
+
+## 📦 Installation & Setup
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/towfiqurv360/Assignment-07-KeenKeeper.git](https://github.com/towfiqurv360/Assignment-07-KeenKeeper.git)
